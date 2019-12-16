@@ -9,30 +9,11 @@
 
 ---
 
-# Table of Contents
-<!-- code_chunk_output -->
-
-- [Boss Fight Battlegrounds](#boss-fight-battlegrounds)
-  - [COM S 309](#com-s-309)
-  - [Group Members](#group-members)
-- [Table of Contents](#table-of-contents)
-    - [About](#about)
-    - [Setup](#setup)
-    - [Running Game Server](#running-game-server)
-    - [Running Game Client](#running-game-client)
-    - [Running Web and Authentication Server](#running-web-and-authentication-server)
-    - [Running Test](#running-test)
-
-
-<!-- /code_chunk_output -->
-
----
-
-### About
+## About
 
 Boss Fight battlground is a 2D side scrolling action game written in C#. It uses the Monogame framework to enable easy cross platform rendering, and a simple game loop. On top of this, we built a functioning game engine, game server, and game client. This project was creating at Iowa State University for the class Computer Science 309: Software Development Practices. It was voted upon by the class as the #1 project in the class of 78 projects.
 
-### Setup
+## Setup
 
 Dependencies:
 
